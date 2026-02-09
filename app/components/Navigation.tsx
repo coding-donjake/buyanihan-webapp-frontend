@@ -1,5 +1,4 @@
 "use client";
-// import banner from "./assets/banner.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faBell, faMagnifyingGlass, faShoppingCart, faUser } from "@fortawesome/free-solid-svg-icons";
 import { useRouter, usePathname } from "next/navigation";
